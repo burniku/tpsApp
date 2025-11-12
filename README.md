@@ -1,7 +1,7 @@
-# TPS App
+# Student TPS App
 
 ## Description / Overview
-TPS App is a Laravel-based web application designed to manage student records. This system allows users to **add**, **view**, **edit**, and **delete** student information through a simple and intuitive interface. The application serves as a practical example of basic CRUD (Create, Read, Update, Delete) operations in Laravel.
+Student TPS App is a Laravel web application designed to manage student records. This system allows users to **add**, **view**, **edit**, and **delete** student information through a simple interface. The application serves as a practical example of basic CRUD (Create, Read, Update, Delete) operations in Laravel.
 
 ## Goals & Objectives
 - Learn how to implement CRUD functionality using Laravel.
@@ -16,7 +16,7 @@ TPS App is a Laravel-based web application designed to manage student records. T
 - **Edit Students:** Update existing student records.
 - **Delete Students:** Remove students from the system.
 
-## 🛠️ Installation Instructions
+## Installation Instructions
 1. **Clone the repository and navigate into the directory:**
    ```bash
    git clone https://github.com/burniku/tpsApp

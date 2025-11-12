@@ -16,6 +16,26 @@ TPS App is a Laravel-based web application designed to manage student records. T
 - **Edit Students:** Update existing student records.
 - **Delete Students:** Remove students from the system.
 
+## 🛠️ Installation Instructions
+1. **Clone the repository and navigate into the directory:**
+   ```bash
+   git clone https://github.com/burniku/tpsApp
+   cd tpsApp
+   ```
+2. **Install PHP dependencies:**
+   ```bash
+   composer install
+   ```
+3. **Run migrations (to create the database tables):**
+```bash
+php artisan migrate
+```
+4. **Start the development server:**
+```bash
+php artisan serve
+```
+
+
 ## Usage
 1. Use the navigation menu to **Add a Student** by entering details like name, email, and other relevant information.
 2. View the list of students on the main page.

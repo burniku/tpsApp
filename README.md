@@ -19,5 +19,7 @@ TPS App is a Laravel-based web application designed to manage student records. T
 ## Installation Instructions
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/burniku/tpsApp
    cd tpsApp
+   ```
+   

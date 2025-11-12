@@ -53,5 +53,18 @@ php artisan serve
 
 **Brandon Sean Gallardo**
 
+## License
+
+Copyright (c) 2025 **Brandon Sean Gallardo**
+
+This project, Student TPS App, was created as part of an academic requirement.
+
+Permission is granted to view and reference this project for educational and non-commercial purposes only.
+You may not copy, modify, distribute, or use this software for commercial gain without explicit permission
+from the author.
+
+The software is provided "as is", without warranty of any kind, express or implied, including but not limited to
+the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
 
 

@@ -45,9 +45,10 @@ php artisan serve
 4. Use the **Delete** button to remove a student from the system.
 
 ## Screenshots 
-
-
-
+<img width="1282" height="623" alt="image" src="https://github.com/user-attachments/assets/01d5ef00-27cf-40eb-98ac-d134f2172906" />
+<img width="1283" height="621" alt="image" src="https://github.com/user-attachments/assets/df97f60d-5092-4a5d-8c6e-0cd4a638be2b" />
+<img width="1280" height="619" alt="image" src="https://github.com/user-attachments/assets/9ba74e9b-d3ac-4611-954c-9b1be481a421" />
+<img width="1279" height="621" alt="image" src="https://github.com/user-attachments/assets/fa54d80f-bc08-4e4c-b574-44426eb98e8b" />
 
 ## Contributors
 

@@ -34,6 +34,8 @@ php artisan migrate
 ```bash
 php artisan serve
 ```
+5. **Open the application:**
+**Go to http://127.0.0.1:8000 to start using TPS App.**
 
 
 ## Usage

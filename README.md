@@ -47,9 +47,11 @@ php artisan serve
 ## Screenshots 
 
 
+
+
 ## Contributors
 
-Brandon Sean Gallardo
+**Brandon Sean Gallardo**
 
 
 

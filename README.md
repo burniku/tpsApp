@@ -39,7 +39,7 @@ php artisan serve
 
 
 ## Usage
-1. Use the navigation menu to **Add a Student** by entering details like name, email, and other relevant information.
+1. Use Add Student Button to **Add a Student** by entering details like name, email, and other relevant information.
 2. View the list of students on the main page.
 3. Use the **Edit** button to modify student details.
 4. Use the **Delete** button to remove a student from the system.
